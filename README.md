@@ -16,6 +16,7 @@ exclusively designed for the interaction between senior and juniors of the
 particular institution.
 
 TECHNOLOGY
+
 Database To save all the records - MySQL
 Frontend HTML, CSS, Javascript along with Bootstrap
 framework and jquery
