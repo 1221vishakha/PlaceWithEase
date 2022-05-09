@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* css default format setting */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;;
+}
+
+.bg-new {
+    background-color: #deb887;
+    
+    
+  }
+
+/* Modify brand and text color */
+ 
+
+
+.bg-light-gray{    
+    background-color: rgb(241, 240, 240);
+}
+
+/* for footer links  */
+.footer_links ul li{
+    list-style: none;
+    margin-bottom: 1rem;
+}
+.footer_links ul li a{
+    color: #000;
+    text-decoration: none;
+    transition: all 0.2s linear;
+}
+.footer_links ul li a:hover{
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+#button{
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+    z-index: 100;
+}
+
+#register {
+    background-image: url("https://www.lingholic.com/wp-content/uploads/2013/01/study.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#register1 {
+    background-image: url("https://www.lingholic.com/wp-content/uploads/2013/01/study.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#bg {
+    background-image: url("https://www.lingholic.com/wp-content/uploads/2013/01/study.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#login{
+    background: #CC99FF;
+             background: linear-gradient(0deg, #CC99FF 0%, #FFFFCC 90%);
+}
+
+.mt-small-2{
+    margin-top: 0rem!important;
+}
+.mt-small-5{
+    margin-top: 0rem!important;
+}
+.mb-small-2{
+    margin-bottom: 0rem!important;
+}
+.mb-small-5{
+    margin-bottom: 0rem!important;
+}
+
+.error {
+    color: #FF0000;
+}
+
+
+
+/* for mobile responsive setting */
+@media(max-width: 767px){
+    .mt-small-2{
+        margin-top: .5rem!important;
+    }
+    .mt-small-5{
+        margin-top: 3rem!important;
+    }
+    .mb-small-2{
+        margin-bottom: .5rem!important;
+    }
+    .mb-small-5{
+        margin-bottom: 3rem!important;
+    }
+}

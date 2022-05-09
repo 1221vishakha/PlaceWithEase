@@ -1,0 +1,29 @@
+#head {
+    background-image: url(https://e9z6410qqg11v8jaxodex7ax-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Header-with-white-gradient_2400x700_acf_cropped-2400x700-c-default.jpg);
+    object-fit: fill;
+    height: 80%;
+  }
+  
+  .nv {
+    background-color: #07496d;
+    font-family: 'Changa', sans-serif;
+    font-size: 120%;
+    
+  }
+  
+
+  
+  
+  
+  .notif {
+    position: relative; 
+    right: 10px;
+  }
+  
+  .label {
+    background-color: #d2661ec7;
+  }
+  .na {
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+  }
